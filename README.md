@@ -9,7 +9,7 @@
   
   ##
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSansySasy&theme=moltack)](https://github.com/TheSansySasy/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSansySasy&theme=moltack)](https://github.com/TheSansySasy/github-readme-stats)
   
 ##
 <p align="center"> 
