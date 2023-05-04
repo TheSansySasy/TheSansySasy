@@ -14,6 +14,6 @@
 ##
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TheSansySasy/count.svg" />
-</p>
-![](https://github.com/TheSansySasy/TheSansySasy/blob/main/assets/91fc549c130f969b61afa9065ad2132d.gif)
+  <img src="https://profile-counter.glitch.me/TheSansySasy/count.svg" /><br>
+<img align="center" src="https://github.com/TheSansySasy/TheSansySasy/blob/main/assets/91fc549c130f969b61afa9065ad2132d.gif"/>
+ </p>
