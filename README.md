@@ -1,5 +1,5 @@
 <h1 align = "center">Hi 👋, I'm Sanskar Rai</h1>
-<h3 align = "center">Full stack developer with a passion for new technology and a commitment to continuous learning.
+<h3 align = "center">Full stack developer in making with a passion for new technology and a commitment to continuous learning.
 
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSansySasy&theme=moltack)](https://github.com/TheSansySasy/github-readme-stats)
 
