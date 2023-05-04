@@ -16,4 +16,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TheSansySasy/count.svg" />
 </p>
-![](https://i.pinimg.com/originals/91/fc/54/91fc549c130f969b61afa9065ad2132d.gif)
+
